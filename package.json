@@ -1,0 +1,11 @@
+{
+  "name": "@sylvainpolletvillard/setup-linters",
+  "version": "1.0.0",
+  "description": "Auto setup linters for JS, CSS, HTML",
+  "keywords": ["lint","linter","eslint","stylelint","htmlhint","precommit","setup"],
+  "bin": {
+    "setup-linters" : "./cli.js"
+  },
+  "author": "Sylvain Pollet-Villard",
+  "license": "MIT"
+}
