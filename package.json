@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Auto setup linters for JS, CSS, HTML",
   "keywords": ["lint","linter","eslint","stylelint","htmlhint","precommit","setup"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sylvainpolletvillard/setup-linters.git"
+  },
   "bin": {
     "setup-linters" : "./cli.js"
   },
