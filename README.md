@@ -6,6 +6,5 @@ Install and configure eslint, stylelint, htmllint and lint-staged to lint your c
 
 ```bash
 cd my-new-project
-npm i @sylvainpolletvillard/setup-linters --save-dev
-npx setup-linters
+npx @sylvainpolletvillard/setup-linters
 ```
